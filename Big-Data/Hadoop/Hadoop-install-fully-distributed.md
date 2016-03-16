@@ -3,6 +3,8 @@
 
 ### 完全分布式（fully-distributed）
 + TODO
++ 参考:http://www.powerxing.com/install-hadoop-cluster/
++      http://www.aboutyun.com/thread-7684-1-1.html
 
 
 ----
